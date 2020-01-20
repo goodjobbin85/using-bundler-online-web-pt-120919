@@ -42,7 +42,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  octokit (~> 2.0.0)
+  octokit (~> 2.0)
   pry
   rspec
   sinatra (= 1.4.4)
